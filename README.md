@@ -1,6 +1,6 @@
 Собрать программу:
 
-    g++ -std=c++11 bot_main.cpp
+    g++ -std=c++11 bot_main.cpp -o bot_main
   
 Запуск:
 
